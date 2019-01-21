@@ -1,0 +1,1 @@
+../../../SMJJSONPath/Classes/Internals/SMJWildcardPathToken.h
